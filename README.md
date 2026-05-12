@@ -1,20 +1,31 @@
-![Watch Now](./img/Design.jpg)
-# One page Portfolio Website (HTML CSS Project)
-**Watch on YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/ZFQkb26UD1Y?style=social) : https://youtu.be/ZFQkb26UD1Y**
+# Personal Portfolio Website
 
----
+A responsive personal portfolio website built using HTML, CSS, and JavaScript to showcase my projects, skills, and contact information.
 
-### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/shaifarfan08/)
+## Features
+- Responsive design
+- Modern user interface
+- Project showcase section
+- About me section
+- Contact section
+- Smooth navigation
 
-Like my works and want to support me?
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
+## Projects Included
+- Tic Tac Toe Game
+- Candy Crush Game
+- GDG at TIU UI Clone
+- STYLO Fashion Platform UI
 
----
+## Live Demo
+Add your GitHub Pages link here
 
-## Other projects
+Example:
+https://yourusername.github.io/portfolio-website/
 
-📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
-  
-
-
+## Author
+Binita Mondal
