@@ -25,7 +25,7 @@ A responsive personal portfolio website built using HTML, CSS, and JavaScript to
 Add your GitHub Pages link here
 
 Example:
-https://yourusername.github.io/portfolio-website/
+https://github.com/binitamondal604-design
 
 ## Author
 Binita Mondal
